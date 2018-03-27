@@ -6,7 +6,7 @@
 	    Create User
 	  </h1>
 	  <ol class="breadcrumb">
-	    <li><a href="/admin/index.php"><i class="fa fa-dashboard"></i> Dashboard</a></li>
+	    <li><a href="/admin/pages/dashboard.php"><i class="fa fa-dashboard"></i> Dashboard</a></li>
 	    <li> Users</li>
 	    <li class="active">Create User</li>
 	  </ol>

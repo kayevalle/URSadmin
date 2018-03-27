@@ -1,24 +1,8 @@
 
-<?php include 'head.php' ?>
+<?php 
 
-  <!-- Content Header (Page header) -->
-  <section class="content-header">
-    <h1>
-      Dashboard
-    </h1>
-    <ol class="breadcrumb">
-      <!-- <li><a href="/admin/index.php"><i class="fa fa-dashboard"></i> Dashboard</a></li> -->
-    </ol>
-  </section>
+  header("location:pages/login.php");
 
-      <!-- Main content -->
-      <section class="content">
-        Dashboard
-
-      </section>
-      <!-- /.content -->
-
-<!-- ./wrapper -->
-<?php include 'script.php' ?>
+ ?>
 
 

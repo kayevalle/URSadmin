@@ -20,7 +20,7 @@
         <li class="header"></li>
         
         <li class="active">
-          <a href="/admin/index.php">
+          <a href="/admin/pages/dashboard.php">
             <i class="fa fa-dashboard"></i> <span>Dashboard</span>
           </a>
         </li>
@@ -48,7 +48,7 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="/admin/pages/write_article.php"><i class="fa fa-circle-o"></i> Write article</a></li>
-            <li><a href="/admin/pages/view_news.php"><i class="fa fa-circle-o"></i> View news</a></li>
+            <li><a href="/admin/pages/view_news.php"><i class="fa fa-circle-o"></i> View news articles</a></li>
           </ul>
         </li>
 
@@ -87,7 +87,7 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="/admin/pages/create_alumni_event.php"><i class="fa fa-circle-o"></i> Create event</a></li>
-            <li><a href="/admin/pages/create_alumni_announcement.php"><i class="fa fa-circle-o"></i> Create Announcement</a></li>
+            <li><a href="/admin/pages/write_alumni_announcement.php"><i class="fa fa-circle-o"></i> Create Announcement</a></li>
           </ul>
         </li>
 

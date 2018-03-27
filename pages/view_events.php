@@ -7,7 +7,7 @@
       Events
     </h1>
     <ol class="breadcrumb">
-      <li><a href="/admin/index.php"><i class="fa fa-dashboard"></i> Dashboard</a></li>
+      <li><a href="/admin/pages/dashboard.php"><i class="fa fa-dashboard"></i> Dashboard</a></li>
       <li>Events</li>
       <li class="active">View Events</li>
     </ol>
@@ -15,7 +15,7 @@
 
       <!-- Main content -->
       <section class="content">
-        View Events
+        
 
       </section>
       <!-- /.content -->
