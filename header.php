@@ -74,7 +74,7 @@
                 <img src="/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce
+                  <a href="/admin/pages/user_profile.php" style="text-decoration: none;color: white">Alexander Pierce</a>
                   <small>Dean</small>
                 </p>
               </li>
