@@ -56,6 +56,9 @@
       background: white;
       border:none;
     }
+    input[readonly]{
+      cursor: text !important;
+    }
   </style>
 </head>
 
